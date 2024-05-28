@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Vegan Pancakes",
+    "ingredients": ["flour", "almond milk", "baking powder", "maple syrup"],
+    "instructions": "Mix all ingredients and cook on a skillet.",
+    "dietary": ["vegan", "dairy-free"]
+  },
+  {
+    "name": "Gluten-Free Salad",
+    "ingredients": ["lettuce", "tomato", "cucumber", "olive oil"],
+    "instructions": "Chop ingredients and mix in a bowl.",
+    "dietary": ["gluten-free", "vegetarian", "vegan", "dairy-free", "nut-free"]
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic"],
+    "instructions": "Cook spaghetti. Brown beef with onion and garlic. Add tomato sauce and simmer. Combine with spaghetti.",
+    "dietary": []
+  },
+  {
+    "name": "Quinoa Salad",
+    "ingredients": ["quinoa", "black beans", "corn", "bell pepper", "cilantro", "lime"],
+    "instructions": "Cook quinoa. Mix with black beans, corn, diced bell pepper, cilantro, and lime juice.",
+    "dietary": ["gluten-free", "vegan", "dairy-free", "nut-free"]
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "ingredients": ["chicken breast", "soy sauce", "broccoli", "carrot", "bell pepper", "garlic", "ginger"],
+    "instructions": "Cook chicken in a pan. Add vegetables, garlic, and ginger. Stir in soy sauce and cook until vegetables are tender.",
+    "dietary": ["dairy-free"]
+  },
+  {
+    "name": "Vegetarian Chili",
+    "ingredients": ["kidney beans", "black beans", "tomato sauce", "onion", "bell pepper", "chili powder", "cumin"],
+    "instructions": "Cook onion and bell pepper. Add beans, tomato sauce, and spices. Simmer for 20 minutes.",
+    "dietary": ["vegetarian", "vegan", "gluten-free", "dairy-free", "nut-free"]
+  },
+  {
+    "name": "Fruit Smoothie",
+    "ingredients": ["banana", "strawberries", "orange juice", "yogurt"],
+    "instructions": "Blend all ingredients until smooth.",
+    "dietary": ["vegetarian", "gluten-free"]
+  },
+  {
+    "name": "Tofu Stir Fry",
+    "ingredients": ["tofu", "soy sauce", "broccoli", "carrot", "bell pepper", "garlic", "ginger"],
+    "instructions": "Cook tofu in a pan. Add vegetables, garlic, and ginger. Stir in soy sauce and cook until vegetables are tender.",
+    "dietary": ["vegan", "dairy-free"]
+  },
+  {
+    "name": "Mango Salsa",
+    "ingredients": ["mango", "red onion", "cilantro", "lime", "jalapeno"],
+    "instructions": "Dice mango and red onion. Mix with chopped cilantro, lime juice, and diced jalapeno.",
+    "dietary": ["vegan", "gluten-free", "dairy-free", "nut-free"]
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "ingredients": ["chicken breast", "romaine lettuce", "parmesan cheese", "croutons", "Caesar dressing"],
+    "instructions": "Cook chicken and slice. Toss with lettuce, parmesan, croutons, and dressing.",
+    "dietary": []
+  }
+]
+
